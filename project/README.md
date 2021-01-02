@@ -1,5 +1,5 @@
 # CS50-Style
-![](/screenshot.png)
+![](/project/screenshot.png)
 
 # Description
 You can have your own account to add your favorite styles to the web application.
